@@ -1,6 +1,6 @@
 # Flashcard Generator
 
-A simple flashcard generator built using  hugging face inference.
+A simple flashcard generator built using  hugging face inference
 
 ## Features
 
