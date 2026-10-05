@@ -1,7 +1,9 @@
 # Flashcard Generator
 
 A simple flashcard generator built using Python and Flask.
-
+NAME: Esha Singh Rathaur
+ROLL NO: 202510101110060
+Group: CS-31,32
 ## Features
 
 - Enter study notes
